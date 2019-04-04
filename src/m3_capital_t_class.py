@@ -170,7 +170,7 @@ class CapitalT(object):
         #   and *** NO OTHER INSTANCE VARIABLES. ***
         #   Note: Implement   attach_to   before testing this __init__ method.
         # ---------------------------------------------------------------------
-
+        self.h_rect =
     def attach_to(self, window):
         """
         What comes in:
